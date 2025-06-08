@@ -1,0 +1,7 @@
+numpy
+pandas
+streamlit
+plotly
+Pillow
+streamlit-option-menu
+scikit-learn
